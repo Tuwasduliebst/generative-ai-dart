@@ -1,4 +1,4 @@
-# Google Generative AI SDK for Dart
+# Google Generative AI SDK for Dart ::: https://pub.dev/packages/google_generative_ai
 
 The Google Generative AI SDK for Dart allows developers to use state-of-the-art
 Large Language Models (LLMs) to build language applications.
